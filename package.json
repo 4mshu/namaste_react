@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/4mshu/namaste_react/issues"
   },
-  "homepage": "https://github.com/4mshu/namaste_react#readme"
+  "homepage": "https://github.com/4mshu/namaste_react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
 }
