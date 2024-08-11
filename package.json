@@ -1,0 +1,22 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "learning npm from namaste react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4mshu/namaste_react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Amshu Chitrakar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4mshu/namaste_react/issues"
+  },
+  "homepage": "https://github.com/4mshu/namaste_react#readme"
+}
