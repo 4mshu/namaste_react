@@ -43,8 +43,13 @@ const Header = () => {
 const RestaurantCard = () => {
     return (
         <div className="res-card">
+            <img className="res-logo"
+            src="https://media-cdn.tripadvisor.com/media/photo-m/1280/17/98/02/ac/momos-this-is-1-plate.jpg"
+            alt="momo"/>
             <h3>Great Tasty Boso Rahit Momo</h3>
-
+            <h4>Italian, Continental</h4>
+            <h4>4.5 *</h4>
+            <h4>24 Minutes</h4>
 
         </div>
     )
@@ -56,7 +61,18 @@ const Body = () => {
         <div className="body">
             <div className="search">Search Bar Here</div>
             <div className="res-container">
-            <RestaurantCard />
+                <RestaurantCard />
+                <RestaurantCard />
+                <RestaurantCard />
+                <RestaurantCard />
+                <RestaurantCard />
+                <RestaurantCard />
+                <RestaurantCard />
+                <RestaurantCard />
+                <RestaurantCard />
+                <RestaurantCard />
+                <RestaurantCard />
+                <RestaurantCard />
             </div>
         </div>
     )
