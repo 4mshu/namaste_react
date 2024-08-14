@@ -1,5 +1,5 @@
 import RestaurantCard from "./RestaurantCard";
-import { restaurantList } from "../constants";
+import { restaurantList } from "../utils/constants";
 
 const Body = () => {
     return (
